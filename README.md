@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 433 records |
 | Free sample size | 43 records (9.93%) |
-| Last export | 2026-04-07T12:41:58.812062+00:00 |
+| Last export | 2026-04-14T12:33:22.754353+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-murfreesboro-tennessee-us-sample-175315/releases/download/sample-latest/beamstation_175315_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
