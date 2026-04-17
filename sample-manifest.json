@@ -1,12 +1,12 @@
 {
-  "export_job_id": "32b3a904-9991-4de6-bb65-19a89eafcd1d",
+  "export_job_id": "cac7cfe3-fdd0-4113-b052-781548119e61",
   "id_short": 175315,
-  "published_at": "2026-04-11T19:03:48Z",
+  "published_at": "2026-04-17T19:08:43Z",
   "repo_name": "all-restaurants-in-murfreesboro-tennessee-us-sample-175315",
   "sample_asset_name": "beamstation_175315_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/175315/beamstation_175315_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_records": 43,
-  "sample_sha256": "e67e2bf3791ba00abf855b1f19dee63ec4ad395f6fa550e4ab81f290239cfa4a",
-  "sample_size_bytes": 176799,
+  "sample_sha256": "5a6ca4e4a111ccf88966951fe38e521a45b89290e7b35e2056f51bf131895cf4",
+  "sample_size_bytes": 175269,
   "total_records": 433
 }
