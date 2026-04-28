@@ -1,6 +1,6 @@
 # All Restaurants in Murfreesboro, Tennessee, US
 
-> Free BeamStation sample export with 60 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `175315` |
 | Location | Murfreesboro |
 | Category | Restaurants |
-| Full dataset size | 601 records |
-| Free sample size | 60 records (9.98%) |
-| Last export | 2026-04-21T13:20:16.667719+00:00 |
+| Full dataset size | 539 records |
+| Free sample size | 53 records (9.83%) |
+| Last export | 2026-04-28T14:22:42.036031+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-murfreesboro-tennessee-us-sample-175315/releases/download/sample-latest/beamstation_175315_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
